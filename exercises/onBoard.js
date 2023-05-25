@@ -41,3 +41,11 @@ let spaceship = {
 }; 
 
 //Youre code goes here
+
+
+let capFave = spaceship.crew.captain['favorite foods'][0];
+
+//console.log(spaceship.passengers = [{name: "Nilo"}, {name: "Hakima"}]);
+
+var firstPassenger = spaceship.passengers[0]
+console.log(firstPassenger);
